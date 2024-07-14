@@ -32,6 +32,9 @@ N/A
 ## Tests
 Open terminal and run index.js 
 
+## Link
+https://watch.screencastify.com/v/SUf4xA5z22Ky000jhJHZ
+
 ## Questions
 For questions about the project, please contact [Jocephuss](https://github.com/Jocephuss).
 You can also reach out directly at rowlandjosiah14@gmail.com.
