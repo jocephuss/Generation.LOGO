@@ -32,8 +32,8 @@ N/A
 ## Tests
 Open terminal and run index.js 
 
-# Screenshot
-
+# Screenshot 
+Example photo
 ![Screenshot 2024-07-14 130853](https://github.com/user-attachments/assets/e854d5f5-888c-4e9c-9acc-2292388280b2)
 
 ## Link
